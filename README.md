@@ -1,5 +1,7 @@
 # Narcos License System
 
+(Discord)[https://discord.gg/narcos]
+
 - Narcos license system. All you need to secure your Fivem servers.
 - Easy interface.
 - Fast protection.
