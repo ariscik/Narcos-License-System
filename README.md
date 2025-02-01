@@ -8,21 +8,14 @@
 - Password systems.
 - 5 day trial period!
 
-![preview1](https://ibb.co/HDqdJCSX)
-![preview2](https://ibb.co/SDRGYNJ5)
-![preview3](https://ibb.co/Tq4Tk4F7)
-![preview4](https://ibb.co/4wRk9TTj)
-![preview5](https://ibb.co/Gvgh6Rny)
-![preview6](https://ibb.co/kVSCMLfF)
-![preview7](https://ibb.co/whc6hZfB)
-![preview8](https://ibb.co/zHSmBzhm)
+![preview1](https://i.ibb.co/Z6xmZSjN/login.png)
+![preview2](https://i.ibb.co/p6J5V2nb/register.png)
+![preview3](https://i.ibb.co/CsbtzbTY/webhookekle.png)
+![preview4](https://i.ibb.co/p6jqGzz3/anasayfa.png)
+![preview5](https://i.ibb.co/hRpq6VLb/ipekle.png)
+![preview6](https://i.ibb.co/cKrnxWHd/ipsil.png)
+![preview7](https://i.ibb.co/RTjHTGqY/kodgor.png)
+![preview8](https://i.ibb.co/TqHw7sBw/lisanssayfasi.png)
 
 ## [Video](https://streamable.com/13vomb)
-
-
-
-
-
-
-
 
